@@ -1,0 +1,13 @@
+Hoje, na aula de Projeto Integrador, realizada em 24/02/2025, discutimos as diferenças entre o GIT e o GITHUB, além de seus conceitos fundamentais.
+
+Durante a aula, aprendi sobre algumas funções do GIT, como:
+- **GIT CLONE**, que serve para "copiar" um repositório e transferi-lo para outro dispositivo.
+- **GIT REMOTE**, usado para "enviar" o arquivo de um dispositivo para outro.
+
+Além disso, descobri que **REPOSITÓRIO** é uma espécie de "pasta" onde os arquivos do meu projeto são armazenados, e que os **COMMITS** funcionam como um "histórico" das alterações feitas ao longo do tempo. Também conheci o comando **PUSH**, que envia diversas modificações de uma vez para um repositório remoto.
+
+A ferramenta **BRANCHES** é como um "atalho", permitindo que criemos novas "ramificações" no projeto sem interferir no trabalho dos outros usuários (um exemplo seria uma capa de aplicativo). Já o **PULL REQUEST** permite que você combine as suas alterações com as do seu colega, salvando as contribuições de ambas as partes.
+
+Aprendemos também como resolver alguns tipos de conflitos que podem ocorrer durante o processo de colaboração.
+
+Na minha opinião, a aula foi bastante clara e interessante, facilitando o entendimento sobre esses conceitos.
